@@ -5,5 +5,16 @@
   "main": "index.js",
   "repository": "https://github.com/fraziermork/pdf-maker.git",
   "author": "Frazier Mork",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/electron": "^1.6.10",
+    "@types/node": "^13.11.1",
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.6",
+    "eslint": "^6.8.0",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "tsinit": "tsc --init"
+  }
 }
