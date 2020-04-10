@@ -1,0 +1,9 @@
+{
+  "name": "pdf-maker",
+  "version": "0.1.0",
+  "description": "personal project to learn electron",
+  "main": "index.js",
+  "repository": "https://github.com/fraziermork/pdf-maker.git",
+  "author": "Frazier Mork",
+  "license": "MIT"
+}
